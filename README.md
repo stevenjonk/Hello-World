@@ -1,3 +1,3 @@
 # hello-world
-hello world newbie exercise
+hello world, beginner exercises.
 Hello new world.
